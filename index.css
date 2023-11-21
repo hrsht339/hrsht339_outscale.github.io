@@ -1,0 +1,10 @@
+body {
+    color: black;
+    text-align: center;
+    align-items: center;
+    align-self: center;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+  }
+
